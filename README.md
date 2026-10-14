@@ -6,6 +6,10 @@ It's 9:00 pm on the last night before **the Morning**: the sunrise at 6:14 am wh
 
 ## Play
 
+**In your browser:** https://rain-1.github.io/small-hours/
+
+**Locally:**
+
 ```bash
 python3 -m http.server 8000 --directory game
 # open http://localhost:8000
