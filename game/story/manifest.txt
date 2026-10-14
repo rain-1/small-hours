@@ -1,0 +1,12 @@
+globals.ink
+shop.ink
+street.ink
+teo.ink
+clinic.ink
+hotline.ink
+stairs.ink
+roofs.ink
+alley.ink
+beats.ink
+moth.ink
+finale.ink

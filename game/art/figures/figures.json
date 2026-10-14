@@ -1,0 +1,50 @@
+{
+ "lu_counter": {
+  "w": 54,
+  "h": 104
+ },
+ "teo_desk": {
+  "w": 62,
+  "h": 92
+ },
+ "ozzie_stand": {
+  "w": 56,
+  "h": 116
+ },
+ "june_sit": {
+  "w": 56,
+  "h": 62
+ },
+ "mae_stand": {
+  "w": 52,
+  "h": 114
+ },
+ "imogen_sit": {
+  "w": 46,
+  "h": 68
+ },
+ "nkechi_stand": {
+  "w": 50,
+  "h": 120
+ },
+ "hollis_sit": {
+  "w": 52,
+  "h": 86
+ },
+ "rafe_crouch": {
+  "w": 74,
+  "h": 72
+ },
+ "dev_sit": {
+  "w": 50,
+  "h": 86
+ },
+ "cat_sit": {
+  "w": 26,
+  "h": 28
+ },
+ "cat_sleep": {
+  "w": 32,
+  "h": 18
+ }
+}
